@@ -1,12 +1,18 @@
 import "./App.css";
 import React from "react";
-import Header from "./header/header-component";
+
+import About from "./about/about-component";
+import Projects from "./projects/projects-component";
+import Contact from "./contact/contact-component";
+import Navbar from "./navbar/navbar-component";
 
 function App() {
   return (
     <div>
-      <header>This is my portfolio</header>
-      <Header />
+      <Navbar />
+      <About />
+      <Projects />
+      <Contact />
     </div>
   );
 }
