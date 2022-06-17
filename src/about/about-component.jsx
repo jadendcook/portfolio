@@ -6,7 +6,7 @@ const About = () => {
     <div id="about">
       <div className="header">
         <div>Jaden Cook,</div>
-        <div>FrontEnd Web Developer</div>
+        <div>Front End Web Developer</div>
       </div>
       <br />
       <br />
@@ -14,18 +14,18 @@ const About = () => {
       <br />
       <br />
       <div className="bio-container">
+        <h4>
+          Marine Biology <span className="unbold">graduate turned</span>{" "}
+          Computer Programmer{" "}
+        </h4>
+        <br />
         <p>
-          I am a self taught programmer with under a year experience in building
-          React applications with HTML, CSS, and Javascript. blha blha
-          dlhalkjblkajdlkj aalh lkja d alkkd . adjk aldj. ljd. blha
-          dlhalkjblkajdlkj aalh lkja d alkkd . adjk aldj. ljd. blha
-          dlhalkjblkajdlkj aalh lkja d alkkd . adjk aldj. ljd. blha
-          dlhalkjblkajdlkj aalh lkja d alkkd . adjk aldj. ljd. blha
-          dlhalkjblkajdlkj aalh lkja d alkkd . adjk aldj. ljd. blha
-          dlhalkjblkajdlkj aalh lkja d alkkd . adjk aldj. ljd. blha
-          dlhalkjblkajdlkj aalh lkja d alkkd . adjk aldj. ljd. blha
-          dlhalkjblkajdlkj aalh lkja d alkkd . adjk aldj. ljd. blha
-          dlhalkjblkajdlkj aalh lkja d alkkd . adjk aldj. ljd.
+          After finishing a Bachelor's in Marine Biology, I discovered that the
+          analytical, logical, and scientific methods of thought translated well
+          to computer programmming. Combined with a lifelong interest in art and
+          aesthetics, frontend development became a continous source of
+          challenge and satisfaction. Self-taught, I specialize on building
+          robust and responsive applications with React.
         </p>
       </div>
     </div>
