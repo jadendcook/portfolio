@@ -20,12 +20,12 @@ const Projects = () => {
             <br />
             <div>e-commerce</div>
           </a>
-          <a href="#" target="_blank">
+          <a href="#projects">
             <img className="image" alt="" src="images/tours.png"></img>
             <br />
             <div>travel agency</div>
           </a>
-          <a href="#" target="_blank">
+          <a href="#projects">
             <img className="image" alt="" src="images/menu.png"></img>
             <br />
             <div>gastronomy</div>
