@@ -24,7 +24,7 @@ const About = () => {
           analytical, logical, and scientific methods of thought translated well
           to computer programmming. Combined with a lifelong interest in art and
           aesthetics, frontend development became a continous source of
-          challenge and satisfaction. Self-taught, I specialize on building
+          challenge and satisfaction. Self-taught, I specialize in building
           robust and responsive applications with React.
         </p>
       </div>

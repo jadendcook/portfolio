@@ -20,12 +20,12 @@ const Projects = () => {
             <br />
             <div>e-commerce</div>
           </a>
-          <a href="#projects">
+          <a href="https://travelagencytours.netlify.app" target="_blank">
             <img className="image" alt="" src="images/tours.png"></img>
             <br />
             <div>travel agency</div>
           </a>
-          <a href="#projects">
+          <a href="https://gastronomy.netlify.app/" target="_blank">
             <img className="image" alt="" src="images/menu.png"></img>
             <br />
             <div>gastronomy</div>
